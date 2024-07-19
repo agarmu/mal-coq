@@ -1,0 +1,4 @@
+-Q ./src Mal
+src
+
+-arg "-w all"
